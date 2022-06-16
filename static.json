@@ -1,5 +1,5 @@
 {
-  "headers: {
+  "headers": {
     "/*": {
       "X-Author": "khamitov-alexandr",
       "Access-Control-Allow-Origin": "*"
